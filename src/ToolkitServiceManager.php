@@ -1,6 +1,6 @@
 <?php
 
-namespace Cooperl\IBMi;
+namespace Thalfm\IBMi;
 
 use ToolkitService;
 

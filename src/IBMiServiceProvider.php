@@ -1,5 +1,5 @@
 <?php
-namespace Cooperl\IBMi;
+namespace Thalfm\IBMi;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Foundation\AliasLoader;

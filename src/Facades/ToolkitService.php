@@ -1,5 +1,5 @@
 <?php
-namespace Cooperl\IBMi\Facades;
+namespace Thalfm\IBMi\Facades;
  
 use Illuminate\Support\Facades\Facade;
  
